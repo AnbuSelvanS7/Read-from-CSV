@@ -1,6 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
+To write a python to read data from CSV files.
 
 ## ALGORITHM:
 ### Step 1:import pandas as pd
@@ -25,3 +26,5 @@ print("Rows",len(df.axes[1]))
 ![alt text](image.png)
 
 ## RESULT:
+Thus the program is written to read the csv file
+
